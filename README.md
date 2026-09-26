@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I am a Second Year Engineering Student at Sri Siddhartha Institute of Technology.<br>My skills and interests include:<br><br>🔌 Electronics<br><br>⚙️ Embedded Systems<br><br>🤖 Arduino<br><br>🎖️ NCC<br><br>🌐 IEEE<br><br>🎯 Firing<br>
+✨ I am a third Year Engineering Student at Sri Siddhartha Institute of Technology.<br>My skills and interests include:<br><br>🔌 Electronics<br><br>⚙️ Embedded Systems<br><br>🤖 Arduino<br><br>🎖️ NCC<br><br>🌐 IEEE<br><br>🎯 Firing<br>
 
 
 ## 🌐 Socials:
